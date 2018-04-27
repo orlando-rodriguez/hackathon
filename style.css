@@ -1,5 +1,19 @@
-.info {
-    background-image: url("http://backgroundcheckall.com/wp-content/uploads/2017/12/beer-background-4.jpg");
-    height: 100vh;
-    margin: 0;
+.navbar-brand {
+  
+}
+
+
+
+
+.background-img {
+  background-image: url(beer-background-2.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 75vh;
+  flex-direction: column;
+  text-align: center;
+  padding-right: 50vw;
+}
+.background-img {
+  font-weight: normal;
 }
